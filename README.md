@@ -9,4 +9,5 @@
     - approach 2:  modular approach using anoter db file specifically for db
 5. Setup for cors and cookies
 6. async handler utility
-7. error handler utility
+7. API error & response handler utility
+8. user & video modelling
