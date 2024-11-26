@@ -5,7 +5,7 @@ import {app} from "./app.js";
 import {PORT_NO} from "./constants.js";
 
 dotenv.config({
-  path: "./env",
+  path: "./.env",
 });
 
 connectDB()
